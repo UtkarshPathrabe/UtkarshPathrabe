@@ -49,31 +49,31 @@
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="mailto:uapathrabe@gmail.com" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg#thumbnail" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="utkarshpathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://twitter.com/utkarshpathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg#thumbnail" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshpathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://linkedin.com/in/utkarshpathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg#thumbnail" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshpathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://fb.com/utkarshpathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg#thumbnail" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarshpathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://instagram.com/utkarsh_pathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg#thumbnail" alt="utkarsh_pathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh_pathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://www.youtube.com/c/utkarshpathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg#thumbnail" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="utkarshpathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://www.hackerrank.com/utkarshpathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg#thumbnail" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://www.leetcode.com/utkarsh_pathrabe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg#thumbnail" alt="utkarsh_pathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_pathrabe" height="30" width="30" class='thumbnail' />
     </a>
     <a href="https://www.hackerearth.com/@utkarsh46" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg#thumbnail" alt="@utkarsh46" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utkarsh46" height="30" width="30" class='thumbnail' />
     </a>
 </p>
 
@@ -220,7 +220,7 @@
 </p>
 
 <style>
-    img[src*='#thumbnail'] {
+    .thumbnail {
         background: #d9fff5;
         margin: 8px;
         padding: 4px;
