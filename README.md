@@ -48,11 +48,11 @@
     Connect with me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="utkarshpathrabe" height="30" width="30" />
-    </a>
     <a href="https://twitter.com/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshpathrabe" height="30" width="30" />
+    </a>
+    <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="utkarshpathrabe" height="30" width="30" />
     </a>
     <a href="https://linkedin.com/in/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshpathrabe" height="30" width="30" />
@@ -69,11 +69,11 @@
     <a href="https://www.hackerrank.com/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpathrabe" height="30" width="30" />
     </a>
-    <a href="https://www.leetcode.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_pathrabe" height="30" width="30" />
-    </a>
     <a href="https://www.hackerearth.com/@utkarsh46" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utkarsh46" height="30" width="30" />
+    </a>
+    <a href="https://www.leetcode.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_pathrabe" height="30" width="30" />
     </a>
 </p>
 
