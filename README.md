@@ -47,7 +47,7 @@
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Connect with me:
 </h3>
-<div align="center" style='margin: 16px 4px 8px; display: flex; justify-content: space-between; align-items: center;'>
+<p align="center" style='margin: 16px 4px 8px; display: flex; justify-content: space-between; align-items: center;'>
     <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="utkarshpathrabe" height="30" width="30" />
     </a>
@@ -75,7 +75,7 @@
     <a href="https://www.hackerearth.com/@utkarsh46" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utkarsh46" height="30" width="30" />
     </a>
-</div>
+</p>
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools:
@@ -220,7 +220,7 @@
 </p>
 
 <style>
-    div > a >img {
+    p > a >img {
         background: #d9fff5;
         margin: 8px;
         padding: 4px;
