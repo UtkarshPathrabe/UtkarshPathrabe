@@ -15,7 +15,7 @@
 </h3>
 
 <h3 align="center">
-    I am a Senior System Software Engineer at NVIDIA Graphics Pvt. Ltd., Pune, India.<br />
+    I am a Senior System Software Engineer (Autonomous Vehicles) at NVIDIA Graphics Pvt. Ltd., Pune, India.<br />
     I am Computer Science Graduate from BITS Pilani, Rajasthan, India.<br />
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
