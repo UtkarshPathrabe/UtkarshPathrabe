@@ -6,13 +6,9 @@
     Hi <img src='./assets/wave.gif' height='26' alt='wave'>, I'm Utkarsh Pathrabe
 </h1>
 
-<h2 align='center'>
-    Welcome to my Github Profile <img src='https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif' alt='cat peek' height='26'>
-</h2>
-
-<h3 align="center" style='margin: 16px 4px;'>
-    I am a passionate full-stack software engineer from India.
-</h3>
+<a href="https://utkarshpathrabe.com/" style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome" />
+</a>
 
 <h3 align='center' style='margin: 16px 4px;'>
     <a href='https://utkarshpathrabe.com/'>My Portfolio Website</a>
@@ -23,10 +19,6 @@
     I am Computer Science Graduate from BITS Pilani, Rajasthan, India.<br />
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
-
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&vCenter=true&multiline=true&width=1380&height=90&lines=I+am+a+Senior+System+Software+Engineer+(Autonomous+Vehicles)+at+NVIDIA+Graphics+Pvt.+Ltd.%2C+Pune%2C+India.;I+am+Computer+Science+Graduate+from+BITS+Pilani%2C+Rajasthan%2C+India.;I+like+solving+competitive+coding+problems%2C+exploring+new+technologies%2C+drawing%2C+painting%2C+travelling+and+gaming." alt="Utkarsh Pathrabe details" />
-</p>
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="GIF">
