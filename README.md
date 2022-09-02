@@ -21,7 +21,7 @@
 </h3>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
+    <img src="./assets/dev-working_rounded.gif" alt="GIF">
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
@@ -217,4 +217,8 @@
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/sunrise.jpeg" alt="utkarshpathrabe" />
 </p>
