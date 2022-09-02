@@ -24,6 +24,8 @@
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&vCenter=true&multiline=true&width=1380&height=90&lines=I+am+a+Senior+System+Software+Engineer+(Autonomous+Vehicles)+at+NVIDIA+Graphics+Pvt.+Ltd.%2C+Pune%2C+India.;I+am+Computer+Science+Graduate+from+BITS+Pilani%2C+Rajasthan%2C+India.;I+like+solving+competitive+coding+problems%2C+exploring+new+technologies%2C+drawing%2C+painting%2C+travelling+and+gaming." alt="Typing SVG" /></a>
+
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="GIF">
 </p>
