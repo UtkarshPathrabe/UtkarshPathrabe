@@ -1,13 +1,13 @@
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="greeting" />
+    <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='wave'>, I'm Utkarsh Pathrabe
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Utkarsh Pathrabe
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
 
 <h3 align='center' style='margin: 16px 4px;'>
@@ -21,22 +21,22 @@
 </h3>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="GIF">
+    <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
-    <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshpathrabe" />
+    <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&row=2&column=4" alt="utkarshpathrabe" />
+        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&row=2&column=4" alt="github profile stats" />
     </a>
 </p>
 
 <p align="center" style='margin: 16px 4px 16px;'>
     <a href="https://twitter.com/utkarshpathrabe" target="blank">
-        <img src="https://img.shields.io/twitter/follow/utkarshpathrabe?logo=twitter&style=for-the-badge" alt="utkarshpathrabe" />
+        <img src="https://img.shields.io/twitter/follow/utkarshpathrabe?logo=twitter&style=for-the-badge" alt="twitter followers" />
     </a>
 </p>
 
@@ -49,31 +49,31 @@
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/utkarshpathrabe" height="30" width="30" />
     </a>
     <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mailto:uapathrabe@gmail.com" height="30" width="30" />
     </a>
     <a href="https://linkedin.com/in/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="30" width="30" />
     </a>
     <a href="https://fb.com/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/utkarshpathrabe" height="30" width="30" />
     </a>
     <a href="https://instagram.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh_pathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/utkarsh_pathrabe" height="30" width="30" />
     </a>
     <a href="https://www.youtube.com/c/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/utkarshpathrabe" height="30" width="30" />
     </a>
     <a href="https://www.hackerrank.com/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/utkarshpathrabe" height="30" width="30" />
     </a>
     <a href="https://www.hackerearth.com/@utkarsh46" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utkarsh46" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@utkarsh46" height="30" width="30" />
     </a>
     <a href="https://www.leetcode.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_pathrabe" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/utkarsh_pathrabe" height="30" width="30" />
     </a>
 </p>
 
@@ -81,11 +81,17 @@
     Languages and Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 32px;'>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
+    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
+    </a>
+    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
@@ -109,7 +115,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
