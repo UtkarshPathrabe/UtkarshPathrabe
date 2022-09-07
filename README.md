@@ -30,7 +30,7 @@
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&row=2&column=4" alt="github profile stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
 </p>
 
