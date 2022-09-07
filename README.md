@@ -231,9 +231,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
 
-<div>
-![Snake animation](https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.gif" alt="utkarsh pathrabe stats snake" />
+</p>
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="./assets/sunrise.jpeg" alt="utkarshpathrabe" />
