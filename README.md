@@ -232,7 +232,7 @@
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-![Snake animation](https://github.com/DevashishPathrabe/DevashishPathrabe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
