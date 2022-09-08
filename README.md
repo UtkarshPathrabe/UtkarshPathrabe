@@ -80,7 +80,7 @@
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools:
 </h3>
-<p align="center" style='margin: 16px 4px 32px; background: #ffffff; padding: 4px'>
+<p align="center" style='margin: 16px 4px 32px;'>
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
