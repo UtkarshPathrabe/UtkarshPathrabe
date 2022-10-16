@@ -153,6 +153,9 @@
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="leaflet" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
