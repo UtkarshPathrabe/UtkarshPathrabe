@@ -171,6 +171,9 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
