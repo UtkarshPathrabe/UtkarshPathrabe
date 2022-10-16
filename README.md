@@ -201,6 +201,9 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket-io" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
