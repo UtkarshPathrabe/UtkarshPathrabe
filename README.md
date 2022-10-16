@@ -233,12 +233,12 @@
 
 ![Profile Stats](https://activity-graph.herokuapp.com/graph?username=UtkarshPathrabe&theme=chartreuse-dark)  
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg" alt="utkarshpathrabe" />
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
 </p>
