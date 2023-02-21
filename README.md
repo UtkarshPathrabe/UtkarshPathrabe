@@ -294,8 +294,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
 
-![Profile Stats](https://activity-graph.herokuapp.com/graph?username=UtkarshPathrabe&theme=chartreuse-dark)  
-
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 <p align="center" style='margin: 8px 4px;'>
