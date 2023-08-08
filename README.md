@@ -24,7 +24,8 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
-<p align="center" style='margin: 16px 4px 8px;'>
+<p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
+    <img src="https://user-badge.committers.top/india/UtkarshPathrabe.svg" alt="github top commits rank" />
     <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
