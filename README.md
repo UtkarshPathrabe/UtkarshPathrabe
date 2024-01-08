@@ -11,7 +11,7 @@
 </p>
 
 <h3 align='center' style='margin: 16px 4px;'>
-    <a href='https://utkarshpathrabe.com/'>My Portfolio Website</a>
+    <a href='https://utkarshpathrabe.website/'>My Portfolio Website</a>
 </h3>
 
 <h3 align="justify">
